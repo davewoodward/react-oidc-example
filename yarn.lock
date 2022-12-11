@@ -1298,25 +1298,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@salte-auth/cognito@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@salte-auth/cognito/-/cognito-3.0.2.tgz#d4062f1982f564995fc2173702bc61394ec88605"
-  integrity sha512-uKtrbhD53mORmcrUvwpvYbPIWaGYGYSgO5XAxne1mitatVQMgSOUqmOAKnKbHu2yQ0GBqMnPHv/RsDLEle4+uA==
-
-"@salte-auth/popup@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@salte-auth/popup/-/popup-3.0.2.tgz#c95d838b3da1499a7d9282d60ae2e89645bcd14c"
-  integrity sha512-phV+mFrqTvaZCsau+p9xUa3diwmJvj0KNLtQahJTUHOwnmV6Ew5wiz5jB+WnVHsvOgIunDPKSi9f02PnIyFNwA==
-
 "@salte-auth/redirect@^3.0.2":
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/@salte-auth/redirect/-/redirect-3.0.2.tgz#e6d281374ee3cf1b4dd649a4b3dd536bdfc8be69"
   integrity sha512-5tKa57cCNpiO0f+QuqXlsbVd3CmZBZuejx8L5cUT2lGHTMsZ6agxDifyM4b0YRVBqPC8vcIYYdWOSR9VqF8Kwg==
-
-"@salte-auth/salte-auth@^3.1.3":
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/@salte-auth/salte-auth/-/salte-auth-3.1.3.tgz#db42327fd83211c642d5a9508d14346da1859edb"
-  integrity sha512-YsOHSwGFwyzptXzV8y0ktwH15th0j/qY58D22LfiQJedfDuP242e8s6mUVyspy0/8PAboscDF5wcV4oprscEvA==
 
 "@sheerun/mutationobserver-shim@^0.3.2":
   version "0.3.3"
@@ -8547,9 +8532,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
